@@ -1,0 +1,4 @@
+cd mediacms
+docker pull mediacms/mediacms
+docker-compose down
+docker-compose up
